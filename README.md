@@ -32,7 +32,7 @@
 </tr>
 <tr>
     <td>4</td>
-    <td>12</td>
+    <td>((12)</td>
     <td>9</td>
     <td>23</td>
     <td>16</td>
