@@ -35,7 +35,7 @@
     <td>12</td>
     <td>9</td>
     <td>23</td>
-    <td>16</td>
+    <td>(16)</td>
 </tr>
 </tbody>
 </table>
