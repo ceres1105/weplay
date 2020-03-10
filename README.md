@@ -25,7 +25,7 @@
 </tr>
 <tr>
     <td>7</td>
-    <td>24</td>
+    <td>(24)</td>
     <td>17</td>
     <td>19</td>
     <td>21</td>
